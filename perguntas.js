@@ -1,14 +1,14 @@
-criaCartão(
+criaCartao(
     'Programação',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
-criaCatao(
+criaCartao(
     'Geografia',
     'Qual a capital da frança?',
     'A capital da frança é paris'
 )
-criaCartão(
+criaCartao(
 'Programação',
 'Oque é uma funçaõ?',
 'Uma função é um bloco de código que executa alguma tarefa'
